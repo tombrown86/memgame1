@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../components"
+		}
+	],
+	"settings": {
+		"debug.javascript.defaultRuntimeExecutable": {
+			"pwa-node": "node"
+		},
+		"emmet.includeLanguages": {
+			"javascript": "javascriptreact",
+			"vue-html": "html",
+			"razor": "html",
+			"plaintext": "jade"
+		}
+	}
+}
