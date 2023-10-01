@@ -20,10 +20,10 @@ const ButtonText = styled.Text`
   margin-left: 10px;
 `;
 
-const StyledButton = ({ onPress, text }) => {
+const StyledButton = ({ onPress, text, iconName }) => {
   return (
     <StyledButtonTO onPress={onPress}>
-      <Icon name="play-circle" size={28} color="#fff" />
+      <Icon name={iconName} size={28} color="#fff" />
       <ButtonText>{text}</ButtonText>
     </StyledButtonTO>
   );

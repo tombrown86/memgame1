@@ -9,25 +9,25 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* memgame1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* memgame1Tests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-memgame1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-memgame1.a */; };
+		0F9F4803A6EC4918B1AB8C0D /* rubik_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3CA1D793A47045D19519A003 /* rubik_italic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		18BE3B9C1B0F4D89A03AEDD4 /* rubik_light_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92EE7611D2CB45C18CB80CC9 /* rubik_light_italic.ttf */; };
+		1BCD36EDF7874365AE8BE331 /* rubik_bold_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBB3834E6C2F48BBB2648C72 /* rubik_bold_italic.ttf */; };
+		1DA7D83AD6784B1AB58A99BA /* rubik.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18F3EB0C361C4DDA9A41AB77 /* rubik.ttf */; };
+		25D4E209CF1E46FD893ECE6E /* rubik_medium_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88E9266F453449469F4886C0 /* rubik_medium_italic.ttf */; };
+		581D96EDC3DC4401BB21D465 /* rubik_black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E15408E2B7484E468E629C7B /* rubik_black.ttf */; };
+		5EB192649447403BA8E54B35 /* karla_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 866A00C3DD5E401792AEE1AF /* karla_italic.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-memgame1-memgame1Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-memgame1-memgame1Tests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		E380D92683494DBCBCE6821B /* karla.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 350AED9B79D145D5907D9C62 /* karla.ttf */; };
-		C7EC0EC60E80464390E1DE58 /* karla_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E95702023D124E14B1FCC431 /* karla_bold.ttf */; };
-		FC072927850C48CF90FE6684 /* karla_bold_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A478B22F386348F1AE33D86D /* karla_bold_italic.ttf */; };
-		5EB192649447403BA8E54B35 /* karla_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 866A00C3DD5E401792AEE1AF /* karla_italic.ttf */; };
-		1DA7D83AD6784B1AB58A99BA /* rubik.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 18F3EB0C361C4DDA9A41AB77 /* rubik.ttf */; };
-		581D96EDC3DC4401BB21D465 /* rubik_black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E15408E2B7484E468E629C7B /* rubik_black.ttf */; };
-		DF8126219E404F94A4DA37B9 /* rubik_black_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E243D06E1A7A4A2B8F34FE9A /* rubik_black_italic.ttf */; };
-		FC0A61B4FA77402F81177533 /* rubik_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 701E51FF0FC44F01825A8C3E /* rubik_bold.ttf */; };
-		1BCD36EDF7874365AE8BE331 /* rubik_bold_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CBB3834E6C2F48BBB2648C72 /* rubik_bold_italic.ttf */; };
-		0F9F4803A6EC4918B1AB8C0D /* rubik_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3CA1D793A47045D19519A003 /* rubik_italic.ttf */; };
-		AE1589CC55ED40A6B269A611 /* rubik_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 91E5682E1C2541AD84104556 /* rubik_light.ttf */; };
-		18BE3B9C1B0F4D89A03AEDD4 /* rubik_light_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92EE7611D2CB45C18CB80CC9 /* rubik_light_italic.ttf */; };
 		9D6BD97C3A5146C196FDE8A8 /* rubik_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9CB9D1E2BEF74C648EBA9EA0 /* rubik_medium.ttf */; };
-		25D4E209CF1E46FD893ECE6E /* rubik_medium_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 88E9266F453449469F4886C0 /* rubik_medium_italic.ttf */; };
+		AE1589CC55ED40A6B269A611 /* rubik_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 91E5682E1C2541AD84104556 /* rubik_light.ttf */; };
+		C7EC0EC60E80464390E1DE58 /* karla_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E95702023D124E14B1FCC431 /* karla_bold.ttf */; };
+		DF8126219E404F94A4DA37B9 /* rubik_black_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E243D06E1A7A4A2B8F34FE9A /* rubik_black_italic.ttf */; };
+		E380D92683494DBCBCE6821B /* karla.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 350AED9B79D145D5907D9C62 /* karla.ttf */; };
+		FC072927850C48CF90FE6684 /* karla_bold_italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A478B22F386348F1AE33D86D /* karla_bold_italic.ttf */; };
+		FC0A61B4FA77402F81177533 /* rubik_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 701E51FF0FC44F01825A8C3E /* rubik_bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,28 +50,28 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = memgame1/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = memgame1/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = memgame1/main.m; sourceTree = "<group>"; };
+		18F3EB0C361C4DDA9A41AB77 /* rubik.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik.ttf; path = ../assets/fonts/rubik.ttf; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-memgame1-memgame1Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-memgame1-memgame1Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		350AED9B79D145D5907D9C62 /* karla.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = karla.ttf; path = ../assets/fonts/karla.ttf; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-memgame1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-memgame1.debug.xcconfig"; path = "Target Support Files/Pods-memgame1/Pods-memgame1.debug.xcconfig"; sourceTree = "<group>"; };
+		3CA1D793A47045D19519A003 /* rubik_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_italic.ttf; path = ../assets/fonts/rubik_italic.ttf; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-memgame1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-memgame1.release.xcconfig"; path = "Target Support Files/Pods-memgame1/Pods-memgame1.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-memgame1-memgame1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-memgame1-memgame1Tests.debug.xcconfig"; path = "Target Support Files/Pods-memgame1-memgame1Tests/Pods-memgame1-memgame1Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-memgame1.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-memgame1.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		701E51FF0FC44F01825A8C3E /* rubik_bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_bold.ttf; path = ../assets/fonts/rubik_bold.ttf; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = memgame1/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		866A00C3DD5E401792AEE1AF /* karla_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = karla_italic.ttf; path = ../assets/fonts/karla_italic.ttf; sourceTree = "<group>"; };
+		88E9266F453449469F4886C0 /* rubik_medium_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_medium_italic.ttf; path = ../assets/fonts/rubik_medium_italic.ttf; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-memgame1-memgame1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-memgame1-memgame1Tests.release.xcconfig"; path = "Target Support Files/Pods-memgame1-memgame1Tests/Pods-memgame1-memgame1Tests.release.xcconfig"; sourceTree = "<group>"; };
+		91E5682E1C2541AD84104556 /* rubik_light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_light.ttf; path = ../assets/fonts/rubik_light.ttf; sourceTree = "<group>"; };
+		92EE7611D2CB45C18CB80CC9 /* rubik_light_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_light_italic.ttf; path = ../assets/fonts/rubik_light_italic.ttf; sourceTree = "<group>"; };
+		9CB9D1E2BEF74C648EBA9EA0 /* rubik_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_medium.ttf; path = ../assets/fonts/rubik_medium.ttf; sourceTree = "<group>"; };
+		A478B22F386348F1AE33D86D /* karla_bold_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = karla_bold_italic.ttf; path = ../assets/fonts/karla_bold_italic.ttf; sourceTree = "<group>"; };
+		CBB3834E6C2F48BBB2648C72 /* rubik_bold_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_bold_italic.ttf; path = ../assets/fonts/rubik_bold_italic.ttf; sourceTree = "<group>"; };
+		E15408E2B7484E468E629C7B /* rubik_black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_black.ttf; path = ../assets/fonts/rubik_black.ttf; sourceTree = "<group>"; };
+		E243D06E1A7A4A2B8F34FE9A /* rubik_black_italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = rubik_black_italic.ttf; path = ../assets/fonts/rubik_black_italic.ttf; sourceTree = "<group>"; };
+		E95702023D124E14B1FCC431 /* karla_bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = karla_bold.ttf; path = ../assets/fonts/karla_bold.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		350AED9B79D145D5907D9C62 /* karla.ttf */ = {isa = PBXFileReference; name = "karla.ttf"; path = "../assets/fonts/karla.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E95702023D124E14B1FCC431 /* karla_bold.ttf */ = {isa = PBXFileReference; name = "karla_bold.ttf"; path = "../assets/fonts/karla_bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A478B22F386348F1AE33D86D /* karla_bold_italic.ttf */ = {isa = PBXFileReference; name = "karla_bold_italic.ttf"; path = "../assets/fonts/karla_bold_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		866A00C3DD5E401792AEE1AF /* karla_italic.ttf */ = {isa = PBXFileReference; name = "karla_italic.ttf"; path = "../assets/fonts/karla_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		18F3EB0C361C4DDA9A41AB77 /* rubik.ttf */ = {isa = PBXFileReference; name = "rubik.ttf"; path = "../assets/fonts/rubik.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E15408E2B7484E468E629C7B /* rubik_black.ttf */ = {isa = PBXFileReference; name = "rubik_black.ttf"; path = "../assets/fonts/rubik_black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E243D06E1A7A4A2B8F34FE9A /* rubik_black_italic.ttf */ = {isa = PBXFileReference; name = "rubik_black_italic.ttf"; path = "../assets/fonts/rubik_black_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		701E51FF0FC44F01825A8C3E /* rubik_bold.ttf */ = {isa = PBXFileReference; name = "rubik_bold.ttf"; path = "../assets/fonts/rubik_bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CBB3834E6C2F48BBB2648C72 /* rubik_bold_italic.ttf */ = {isa = PBXFileReference; name = "rubik_bold_italic.ttf"; path = "../assets/fonts/rubik_bold_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3CA1D793A47045D19519A003 /* rubik_italic.ttf */ = {isa = PBXFileReference; name = "rubik_italic.ttf"; path = "../assets/fonts/rubik_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		91E5682E1C2541AD84104556 /* rubik_light.ttf */ = {isa = PBXFileReference; name = "rubik_light.ttf"; path = "../assets/fonts/rubik_light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		92EE7611D2CB45C18CB80CC9 /* rubik_light_italic.ttf */ = {isa = PBXFileReference; name = "rubik_light_italic.ttf"; path = "../assets/fonts/rubik_light_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		9CB9D1E2BEF74C648EBA9EA0 /* rubik_medium.ttf */ = {isa = PBXFileReference; name = "rubik_medium.ttf"; path = "../assets/fonts/rubik_medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		88E9266F453449469F4886C0 /* rubik_medium_italic.ttf */ = {isa = PBXFileReference; name = "rubik_medium_italic.ttf"; path = "../assets/fonts/rubik_medium_italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +134,28 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		3D3FB1DC029C4B7A89E547FC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				350AED9B79D145D5907D9C62 /* karla.ttf */,
+				E95702023D124E14B1FCC431 /* karla_bold.ttf */,
+				A478B22F386348F1AE33D86D /* karla_bold_italic.ttf */,
+				866A00C3DD5E401792AEE1AF /* karla_italic.ttf */,
+				18F3EB0C361C4DDA9A41AB77 /* rubik.ttf */,
+				E15408E2B7484E468E629C7B /* rubik_black.ttf */,
+				E243D06E1A7A4A2B8F34FE9A /* rubik_black_italic.ttf */,
+				701E51FF0FC44F01825A8C3E /* rubik_bold.ttf */,
+				CBB3834E6C2F48BBB2648C72 /* rubik_bold_italic.ttf */,
+				3CA1D793A47045D19519A003 /* rubik_italic.ttf */,
+				91E5682E1C2541AD84104556 /* rubik_light.ttf */,
+				92EE7611D2CB45C18CB80CC9 /* rubik_light_italic.ttf */,
+				9CB9D1E2BEF74C648EBA9EA0 /* rubik_medium.ttf */,
+				88E9266F453449469F4886C0 /* rubik_medium_italic.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -176,28 +198,6 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		3D3FB1DC029C4B7A89E547FC /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				350AED9B79D145D5907D9C62 /* karla.ttf */,
-				E95702023D124E14B1FCC431 /* karla_bold.ttf */,
-				A478B22F386348F1AE33D86D /* karla_bold_italic.ttf */,
-				866A00C3DD5E401792AEE1AF /* karla_italic.ttf */,
-				18F3EB0C361C4DDA9A41AB77 /* rubik.ttf */,
-				E15408E2B7484E468E629C7B /* rubik_black.ttf */,
-				E243D06E1A7A4A2B8F34FE9A /* rubik_black_italic.ttf */,
-				701E51FF0FC44F01825A8C3E /* rubik_bold.ttf */,
-				CBB3834E6C2F48BBB2648C72 /* rubik_bold_italic.ttf */,
-				3CA1D793A47045D19519A003 /* rubik_italic.ttf */,
-				91E5682E1C2541AD84104556 /* rubik_light.ttf */,
-				92EE7611D2CB45C18CB80CC9 /* rubik_light_italic.ttf */,
-				9CB9D1E2BEF74C648EBA9EA0 /* rubik_medium.ttf */,
-				88E9266F453449469F4886C0 /* rubik_medium_italic.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
